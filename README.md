@@ -22,6 +22,6 @@ LeetCode Solutions(Java, JavaScript, C#) 为LeetCode提供来自上述三种语�
 你可以在[code/com/leetcode/solutions](./code/com/leetcode/solutions)下看到我们全部解决方案，欢迎大家学习和互相分享，这同时也是我们对自己的练习和学习。
 ### 章节
 
-| 题目&解法 | 时间复杂度 | 备注 |
+| 题目&解法 | 时间复杂度 | 难易度 |
 | --- | --- | --- |
-|  |  |  |
+| [0001两数之和](./code/com/leetcode/solutions/NO_0001_两数之和) | O(n) | 简单 |
