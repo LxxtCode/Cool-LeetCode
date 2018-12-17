@@ -11,15 +11,16 @@
 
 # LxxtCode
 
+We are Love Xuexi Team!
 
-LeetCode Solutions(Java, JavaScript, C#) 为LeetCode提供来自上述三种语言的解决方案
+For LeetCode Solutions(Java, JavaScript, C#) 我们致力于为LeetCode提供来自上述三种语言的解决方案
 
 ## 贡献
 | <center> [<img src="https://avatars3.githubusercontent.com/u/43669088?s=88&v=4" width="80px;"/>](https://github.com/CMemorY180819) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/42290117?s=460&v=4" width="80px;"/>](https://github.com/EricJayLsh) </center>| <center> [<img src="https://avatars0.githubusercontent.com/u/13296146?s=88&v=4" width="80px;"/>](https://github.com/SandBoat) </center>
 | --- | --- | --- |
 ## 资源
 ### 目录
-你可以在[code/com/leetcode/solutions](./code/com/leetcode/solutions)下看到我们全部解决方案，欢迎大家学习和互相分享，这同时也是我们对自己的练习和学习。
+你可以在[code/com/leetcode/solutions](./code/com/leetcode/solutions)下看到我们全部解决方案，或者在下方章节里找到你感兴趣的题目，欢迎大家fork学习。
 ### 章节
 
 | 题目&解法 | 时间复杂度 | 难易度 |
