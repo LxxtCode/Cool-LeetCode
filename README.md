@@ -25,7 +25,7 @@ LeetCode Solutions(Java, JavaScript, C#) 为LeetCode提供来自上述三种语�
 | 题目&解法 | 时间复杂度 | 难易度 |
 | --- | --- | --- |
 | [0001 两数之和](./code/com/leetcode/solutions/NO_0001_两数之和) | O(n) | 简单 |
-| [0002 两数相加](./code/com/leetcode/solutions/NO_0002_两数相加) | O(n) | 中等 |
+| [0002 两数相加](./code/com/leetcode/solutions/NO_0002_两数相加) | O(max(m,n)) | 中等 |
 | [0003 无重复字符的最长子串](./code/com/leetcode/solutions/NO_0003_无重复字符的最长子串) | O(n) | 中等 |
 | [0004 寻找两个有序数组的中位数](./code/com/leetcode/solutions/NO_0004_寻找两个有序数组的中位数) | O(n) | 困难 |
 | [0005 最长回文子串](./code/com/leetcode/solutions/NO_0005_最长回文子串) | O(n) | 中等 |
