@@ -29,7 +29,7 @@ For LeetCode Solutions(Java, JavaScript, C#) 我们致力于为LeetCode提供来
 | [0002 两数相加](./code/com/leetcode/solutions/NO_0002_两数相加) | O(max(m,n)) | 中等 |
 | [0003 无重复字符的最长子串](./code/com/leetcode/solutions/NO_0003_无重复字符的最长子串) | O(max(m,n)) | 中等 |
 | [0004 寻找两个有序数组的中位数](./code/com/leetcode/solutions/NO_0004_寻找两个有序数组的中位数) | O(n) | 困难 |
-| [0005 最长回文子串](./code/com/leetcode/solutions/NO_0005_最长回文子串) | O(n) | 中等 |
+| [0005 最长回文子串](./code/com/leetcode/solutions/NO_0005_最长回文子串) | O(n2) | 中等 |
 | [0006 Z 字形变换](./code/com/leetcode/solutions/NO_0006_Z字形变换) | O(n) | 中等 |
 | [0007 整数反转](./code/com/leetcode/solutions/NO_0007_整数反转) | O(n) | 简单 |
 | [0008 字符串转换整数](./code/com/leetcode/solutions/NO_0008_字符串转换整数) | O(n) | 中等 |
