@@ -6,7 +6,7 @@ package com.leetcode.solutions.NO_0007_整数反转;
 public class Solution {
 
     /**
-     * 解法：处理边界问题
+     * 解法：每次取余遍历*10+余即可，注意处理边界问题(可能出现在反过来的时候)
      *
      * @param x 输入整数(不包括越界)
      * @return int
