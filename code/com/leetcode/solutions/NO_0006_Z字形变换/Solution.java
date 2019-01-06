@@ -9,7 +9,8 @@ import java.util.List;
 public class Solution {
 
     /**
-     * 解法：
+     * 解法：行的思想，按照行把所有值塞到list里面，在一次遍历数组的时候，标注遍历方向，按照方向和顺序塞入到各自的list当中
+     *      最后输出list即可
      *
      * @param s 输入字符串
      * @param numRows 显示多少行
