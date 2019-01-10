@@ -13,7 +13,7 @@
 
 We are Love Xuexi Team!
 
-For LeetCode Solutions(Java, JavaScript, C#) 我们致力于为LeetCode提供来自上述三种语言的解决方案
+For LeetCode Solutions(Java, JavaScript, C#) 我们致力于为LeetCode提供来自上述三种语言的解决方案 持续更新中...
 
 ## 贡献
 | <center> [<img src="https://avatars3.githubusercontent.com/u/43669088?s=88&v=4" width="80px;"/>](https://github.com/CMemorY180819) </center> | <center> [<img src="https://avatars3.githubusercontent.com/u/42290117?s=460&v=4" width="80px;"/>](https://github.com/EricJayLsh) </center>| <center> [<img src="https://avatars0.githubusercontent.com/u/13296146?s=88&v=4" width="80px;"/>](https://github.com/SandBoat) </center>
