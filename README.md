@@ -45,3 +45,8 @@ For LeetCode Solutions(Java, JavaScript, C#) 我们致力于为LeetCode提供来
 | [0018 四数之和](./code/com/leetcode/solutions/NO_0018_四数之和) | O(n) | 中等 |
 | [0019 删除链表的倒数第N个节点](./code/com/leetcode/solutions/NO_0019_删除链表的倒数第N个节点) | O(n) | 中等 |
 | [0020 有效的括号](./code/com/leetcode/solutions/NO_0020_有效的括号) | O(n) | 简单 |
+| [0021 合并两个有序链表](./code/com/leetcode/solutions/NO_0021_合并两个有序链表) | O(n) | 简单 |
+| [0022 括号生成](./code/com/leetcode/solutions/NO_0022_括号生成) | O(n) | 中等 |
+| [0023 合并K个排序链表](./code/com/leetcode/solutions/NO_0023_合并K个排序链表) | O(n) | 困难 |
+| [0024 两两交换链表中的节点](./code/com/leetcode/solutions/NO_0024_两两交换链表中的节点) | O(n) | 中等 |
+| [0025 k个一组翻转链表](./code/com/leetcode/solutions/NO_0025_k个一组翻转链表) | O(n) | 困难 |
