@@ -8,10 +8,17 @@ package com.leetcode.solutions.NO_0100_相同的树;
 public class Solution {
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
-
-        return false;
+        // 中序遍历
+        // 继续的条件
+        if (p == null && q == null) {
+            return true;
+        }
+        if (p != null && q != null && p.val == q.val) {
+            return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+        } else {
+            return false;
+        }
     }
-
 
     public class TreeNode {
         int val;
