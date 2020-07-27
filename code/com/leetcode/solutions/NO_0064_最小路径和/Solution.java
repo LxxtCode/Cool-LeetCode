@@ -38,4 +38,5 @@ public class Solution {
 
         return result[l - 1][r - 1];
     }
+
 }
